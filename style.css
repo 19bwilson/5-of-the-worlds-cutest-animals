@@ -1,0 +1,35 @@
+
+
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+    
+}
+
+h1, h2, h3, h4, h5{
+    font-family: fantasy;
+    font-size: 60px;
+    color:darkgoldenrod;
+ 
+}
+
+p{
+    font-family:monospace;
+    font-size: 30px;
+    color: darkgoldenrod;
+}
+
+
+img{
+    padding-left:50px;
+    padding-right:50px;
+    padding-bottom:50px;
+    padding-top:50px;
+    text-align: center;
+    width: auto;
+    height: auto;
+    border-bottom: 60px solid rgb(42, 36, 30);
+    border-top: 60px solid rgb(122, 117, 108);
+    border-left: 60px solid rgb(80, 70, 61);
+    border-right: 60px solid rgb(80, 70, 61);
+}
